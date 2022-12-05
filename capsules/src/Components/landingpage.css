@@ -1,0 +1,34 @@
+body{
+    background-image: url('./Images/background.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    color: orange;
+}
+
+.head{
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+
+.sub-head{
+    position: absolute;
+    top: 150px;
+    left: 60px;
+}
+
+
+
+.img-container{
+    /* border: 2px solid wheat; */
+    height: 300px;
+    width: 550px;
+    position: absolute;
+    right: 100px;
+    top: 80px;
+}
+
+.img-container img{
+    width: 100%;
+    height: 100%;
+}
